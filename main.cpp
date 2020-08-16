@@ -6,13 +6,8 @@ using namespace std;
 
 int main()
 {
-    std::cout<< "Model: RAD-AT " << std::endl <<
-                "Output: Targets (Range and Bearing Data)" << std::endl
-             << "FOV: 20 degrees" <<std::endl
-             << "Min Range: 0.5m" <<std::endl
-             << "Max Range: 80m " <<std::endl
-             << "Max # Targets: 20" <<std::endl;
-// accepts user input for cinfgurable paranetes of sensor
+    
+    // accepts user input for cinfgurable paranetes of sensor
     //initialises sensor
     //queries fixed sensor paraneters
     //sets sensor paraneters as specified by user
