@@ -6,7 +6,10 @@ using namespace std;
 
 int main()
 {
-    
+    Radar radar;
+    radar.getData();
+    return 0;
+
     // accepts user input for cinfgurable paranetes of sensor
     //initialises sensor
     //queries fixed sensor paraneters

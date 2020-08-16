@@ -7,7 +7,7 @@ public:
     Radar();
     void setScanningTime(unsigned int);
     int getScanningTime(void);
-    unsigned int getNumberofTargets(void);
+    int getNumberOfTargets(void);
     void changeScanningTime(void);
     void printParameters(void);
     void getData(void);
